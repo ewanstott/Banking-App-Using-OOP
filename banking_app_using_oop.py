@@ -59,5 +59,7 @@ class Bank(User):
         print("Account balance: £", self.balance)
 
 
-Ewan = Bank("Ewan", 30, "Male")
-Ewan.deposit(1000)
+# Ewan = Bank("Ewan", 30, "Male")
+# Ewan.deposit(1000)
+# Ewan.withdraw(1200)
+# Ewan.view_balance
