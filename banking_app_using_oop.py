@@ -61,4 +61,3 @@ class Bank(User):
 
 Ewan = Bank("Ewan", 30, "Male")
 Ewan.deposit(1000)
-Ewan.withdraw(1200)
